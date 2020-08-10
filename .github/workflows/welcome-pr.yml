@@ -1,5 +1,4 @@
-name: issue-checklist
-
+name: welcome-pr
 on:
   pull_request:
     types: [opened]
