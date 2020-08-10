@@ -1,4 +1,4 @@
-name: issue-checklist
+name: welcome-issue
 
 on:
   issues:
