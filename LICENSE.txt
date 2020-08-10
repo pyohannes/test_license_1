@@ -12,7 +12,7 @@ verbatim copies of these files to third parties.  As a condition to the
 foregoing grant, you must provide this notice along with each copy you
 distribute and you must not remove, alter, or obscure this notice. All
 other use, reproduction, modification, distribution, or other
-exploitation of these files is strictly prohibited, except as may be set
+exploitation of these files asdfasdfis strictly prohibited, except as may be set
 forth in a separate written license agreement between you and New
 Relic.  The terms of any such license agreement will control over this
 notice.  The license stated above will be automatically terminated and
